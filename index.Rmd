@@ -1,0 +1,24 @@
+---
+title: "Marginalia of Error"
+image: "WDAB-2001.jpg"
+color1: "#42cb3a"
+color2: "#feb4d3"
+angle: 130
+links:
+  #- label: YouTube
+    #url: "https://youtube.com/"
+  - label: Goodreads
+    url: "https://www.goodreads.com/user/show/5638880-ann-marie"
+  - label: ARC library
+    url: "https://arc-library.com/u/marginalia_of_error"
+  #- label: Email
+    #url: "mailto:email@email.com"
+output:
+  postcards::onofre
+---
+ 
+Where Logic Meets Lore
+
+Ann Marie is a data analyst with a life-long love of reading! She got her start with data analytics as an undergraduate at Wheaton College in Norton, MA, where she was a member of Wheaton's Lexomics text analytics research team. Her love of reading, specifically Shakespeare, and her mathematical mind led her to wonder: can text analytics be used to investigate Shakespearean authorship questions?
+
+Fast forward over a decade, and Ann Marie now has a Master's degree from NC State's Institute for Advanced Analytics (Go Pack!!). She still loves to take an analytical approach to studying authorship and has now turned her attention toward indie publishing. Her goal is to use her knowledge of analytics to promote indie authors, connect with other readers, and share her love of books. 
