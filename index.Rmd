@@ -5,14 +5,15 @@ color1: "#42cb3a"
 color2: "#feb4d3"
 angle: 130
 links:
-  #- label: YouTube
-    #url: "https://youtube.com/"
   - label: Goodreads
     url: "https://www.goodreads.com/user/show/5638880-ann-marie"
   - label: ARC library
     url: "https://arc-library.com/u/marginalia_of_error"
-  #- label: Email
-    #url: "mailto:email@email.com"
+  - label: Amazon Wishlist
+    url: "https://www.amazon.com/hz/wishlist/ls/2WBHSBEVHWBAU/ref=nav_wishlist_lists_2"
+  - label: Institute for Advanced Analytics
+    url: "https://analytics.ncsu.edu"  
+    
 output:
   postcards::onofre
 ---
