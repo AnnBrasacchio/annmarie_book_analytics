@@ -1,2 +1,2 @@
-# marginalia-of-error
+# annmarie_book_analytics
 Data analysis of indie romantasy/romance novels
